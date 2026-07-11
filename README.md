@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshni B</h1>
 
-<h3 align="center">Full Stack Developer | React.js Developer | AI & ML Enthusiast | AWS Cloud Learner</h3>
+<h3 align="center">Full Stack Developer | React.js Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;React.js+Developer;AI+%26+Machine+Learning+Enthusiast;AWS+Cloud+Learner;Building+Innovative+Solutions;Always+Learning+New+Technologies" />
