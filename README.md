@@ -28,7 +28,7 @@
 
 📧 Email: harshni5577@gmail.com
 
-🌐 Portfolio: https://harshni-port.netlify.app/
+🌐 Portfolio: https://harshni2018.github.io/Portfolio/
 
 🔗 LinkedIn: https://www.linkedin.com/in/harshni-b-520037290/
 
@@ -134,7 +134,7 @@ A responsive portfolio showcasing projects, certifications, internships, and ach
 
 🔗 Repository: https://github.com/harshni2018/Portfolio
 
-🌍 Live Website: https://harshni-port.netlify.app/
+🌍 Live Website: https://harshni2018.github.io/Portfolio/
 
 ---
 
